@@ -1,0 +1,3 @@
+[libraries]
+
+postgresql = { module = "org.postgresql:postgresql" }

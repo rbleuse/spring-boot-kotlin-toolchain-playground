@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-kotlin-toolchain-playground
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health

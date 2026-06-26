@@ -1,0 +1,4 @@
+.gitattributes text eol=lf
+kotlin text eol=lf
+kotlin.bat text eol=crlf
+*.yml text eol=lf
