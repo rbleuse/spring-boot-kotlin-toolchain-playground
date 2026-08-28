@@ -8,7 +8,7 @@ Demo project for Spring Boot on JetBrains Kotlin Toolchain.
 - Kotlin 2.4.0
 - Kotlin Toolchain 0.11.1
 - Java 25
-- PostgreSQL 18.4 through Spring Boot Docker Compose support
+- PostgreSQL 18.6 through Spring Boot Docker Compose support
 
 ## Run
 
