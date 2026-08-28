@@ -4,7 +4,7 @@ Demo project for Spring Boot on JetBrains Kotlin Toolchain.
 
 ## Stack
 
-- Spring Boot 4.0.7
+- Spring Boot 4.1.1
 - Kotlin 2.4.10
 - Kotlin Toolchain 0.12.0
 - Java 25
